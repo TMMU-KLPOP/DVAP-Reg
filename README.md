@@ -2,7 +2,7 @@
 # DVAP-Reg: Dual-View Anatomical Prior-Driven Cross-Dimensional Registration for Spinal Surgery Navigation
 
 ## Introduction
-This study describes a self-geometry-guided direct regression network for cross-view and -dimensional registration (CVD-SGDRN) in spinal surgical navigation.
+This study describes a dual-View anatomical prior-driven cross-dimensional registration for spinal surgery navigation.
 
 
 ## Open Source
